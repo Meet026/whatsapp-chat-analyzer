@@ -8,7 +8,6 @@ It supports both group and solo chats and provides various visual insights.
 Features:
 ------------------------------------------
 
-- Automatically detects group or solo chats.
 - Displays key statistics: total messages, words, media, and links.
 - Identifies the most active users (for group chats).
 - Monthly and daily message timelines.
